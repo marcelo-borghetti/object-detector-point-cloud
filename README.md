@@ -3,7 +3,7 @@ Sample codes for object recog and neural nettworks
 
 
 *************************************************************
-*			GENERAL INFO		 	 
+* GENERAL INFO		 	 
 
 This repository has 2 directories:
 
@@ -12,7 +12,7 @@ This repository has 2 directories:
 2) bin/ has some scripts and other development files that should work with the binaries built from the source code. These files should be relocated to the same directory of binary files created by 'catkin_make'.
 
 *************************************************************
-*		USING THE RGB-D capture		  	    
+* USING THE RGB-D capture		  	    
 
 
 To use the RGB-D capture type
@@ -30,10 +30,11 @@ To use the RGB-D capture type
 To use the capture, you should press "space". The point clouds will be stored in a directory "new_trainning_data/" inside <dir_results>.
 
 *************************************************************
-*		USING THE Neural Network	           
+* USING THE Neural Network	           
 
 To use the code, type:
 	cd bin/CNN_PYTHON/MCNN.v2015/MCCNN/
+	
 	python Program.py
 
 
