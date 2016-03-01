@@ -33,6 +33,7 @@ To use the capture, you should press "space". The point clouds will be stored in
 * USING THE Neural Network	           
 
 To use the code, type:
+
 	cd bin/CNN_PYTHON/MCNN.v2015/MCCNN/
 	
 	python Program.py
