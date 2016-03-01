@@ -1,0 +1,1 @@
+find . -iname "*dbg*" -exec rename _dbg.txt .txt '{}' \;
