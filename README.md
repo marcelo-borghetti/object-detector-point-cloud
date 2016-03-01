@@ -1,5 +1,5 @@
 # sampleCode
-Sample codes for object recog and neural nettworks
+Sample codes for object recog and neural networks
 
 
 *************************************************************
@@ -9,7 +9,7 @@ This repository has 2 directories:
 
 1) src/ contains all source codes for RGB-D capture. To use this source code, put src/ in a catkin environment and compile them with 'catkin_make'.
 
-2) bin/ has some scripts and other development files that should work with the binaries built from the source code. These files should be relocated to the same directory of binary files created by 'catkin_make'.
+2) bin/ has some scripts and other development files that should work with the binaries built from the source code. These files should be relocated to the same directory of binary files created by 'catkin_make'. The code of the CNN is also in tis directory.
 
 *************************************************************
 * USING THE RGB-D capture		  	    
