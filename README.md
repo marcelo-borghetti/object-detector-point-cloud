@@ -1,4 +1,4 @@
-# sampleCode
+# point-cloud-object-detector
 Sample codes for object recog and neural networks
 
 
